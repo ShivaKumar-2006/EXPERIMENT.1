@@ -25,7 +25,7 @@ System.out.println("Default boolean value:"+obj.bool);
 }
 ```
 #output
-![output of Defaultvalues](primitive.png)
+
 
 
 
