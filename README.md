@@ -25,4 +25,4 @@ System.out.println("Default boolean value:"+obj.bool);
 }
 ```
 #output
-![output of Defaultvalues](exp 1a output.png)
+![output of Defaultvalues](primitive.png)
