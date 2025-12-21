@@ -81,4 +81,4 @@ class QuadraticRoots {
 }
 ```
 #output
-![output of Quadraticequations](Quadratic.png)
+![output of Quadraticequations](quadratic.png)
