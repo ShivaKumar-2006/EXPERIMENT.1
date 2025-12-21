@@ -25,11 +25,7 @@ System.out.println("Default boolean value:"+obj.bool);
 }
 ```
 #output
-
-
-
-
-
+![output of primitive](primitive.png)
 #EXP-1b
 ##TITLE-Quadratic
 ```java
